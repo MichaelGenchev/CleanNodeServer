@@ -1,0 +1,1 @@
+To switch the server to failing mode. Set the variable 'shouldFail' to true
